@@ -15,7 +15,7 @@ This is a python script to do pre-processing for the Excel datasheet. It extract
 This is the main machine learning procedure file written in Lua and Torch. The End-to-End flow is as follows:
 Data normalization -> Data separation (training set and test/validation set) -> Deep learning model Creation -> Training -> Performance Evaluation -> Predicted data Storage.
 
-###3.1. Three deep learning model
+###3.1. Three deep learning model: 
 multiple linear perceptron, convolutional neural network, and recurrent neural network.
 
 ###3.2. Two kinds of validation
